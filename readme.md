@@ -96,7 +96,7 @@ bash scripts/llava_opt.sh 0 eurosat \
 ```bibtex
 @article{mirza2024glov,
     author    = {Mirza, M. Jehanzeb and Zhao, Mengjie and Mao, Zhuoyuan and Doveh, Sivan and Lin, Wei and Gavrikov, Paul and Dorkenwald, Michael and Yang, Shiqi and Jha, Saurav and Wakaki, Hiromi and Mitsufuji, Yuki and Possegger, Horst and Feris, Rogerio and Karlinsky, Leonid and Glass, James},
-    journal = {ArXiv},
+    journal   = {ArXiv},
     title     = {GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models},
     year      = {2024}
     }
