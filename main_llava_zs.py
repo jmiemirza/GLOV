@@ -43,7 +43,7 @@ torch.backends.cuda.enable_math_sdp(True)
 
 
 
-login(token="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")
+login(token="")
 from utils import llava_eval_functions
 import time 
 
