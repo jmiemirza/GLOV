@@ -1,4 +1,4 @@
-# GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models [Paper](https://arxiv.org/pdf/2410.06154)
+# GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models [[Paper]](https://arxiv.org/pdf/2410.06154)
 
 ## Installation
 
